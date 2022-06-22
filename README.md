@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BIBIN JOSE</h1>
-<h3 align="center">Studying at SJCET Palai</h3>
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Flutter+Beginer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibs23&label=Profile%20views&color=0e75b6&style=flat" alt="bibs23" /> </p>
 
 - 🌱 I’m currently learning **Dart Programming Language And Flutter**
@@ -8,7 +10,8 @@
 - 📫 How to reach me **bibinoottukulathil@gmail.com**
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
-- 
+
+- ❤️ Love to build UI using Flutter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
