@@ -1,6 +1,5 @@
-<h1 align="center">
- <img src="https://rrtutors.com/site/download" />
-</h1>
+<img src='![image](https://user-images.githubusercontent.com/83808936/177203907-982b33df-3fb8-46b1-8d7e-78b79603b6da.png)
+' alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm BIBIN JOSE</h1>
 
