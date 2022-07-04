@@ -1,9 +1,13 @@
-<img src='![image](https://user-images.githubusercontent.com/83808936/177203907-982b33df-3fb8-46b1-8d7e-78b79603b6da.png)
-' alt="banner"></img>
+
+<h1 align="center">
+<img src= "https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"
+width = "400"
+height = "160"/></h1>
+
 
 <h1 align="center">Hi 👋, I'm BIBIN JOSE</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Flutter+Beginer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Flutter+Developer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibs23&label=Profile%20views&color=0e75b6&style=flat" alt="bibs23" /> </p>
 
 - 🌱 I’m currently learning **Dart Programming Language And Flutter**
@@ -13,6 +17,13 @@
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 - ❤️ Love to build UI using Flutter
+<h1 align = "right">
+<img src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+height = "125"
+width = "200"
+top = "100"
+right = "900"
+/></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
