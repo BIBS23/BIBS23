@@ -12,7 +12,7 @@ height = "160"/></h1>
 
 <h1 align = center>
 <img src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-height = "300"
+height = "150"
 width = "300"/></h1>
 
 - 🌱 I’m currently learning **Flutter  and Web Development**
