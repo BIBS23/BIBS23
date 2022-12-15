@@ -37,6 +37,7 @@ width = "300"/></h1>
 
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BIBS23" alt="BIBS23" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibs23&show_icons=true&locale=en&layout=compact" alt="bibs23" /></p>
 
