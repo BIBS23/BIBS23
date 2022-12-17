@@ -1,48 +1,79 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=blue&center=true&size=24&width=1200&lines=Hello+World+👋;&duration=3000)](https://git.io/typing-svg) 
 
-<h1 align="center">
-<img src= "https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"
-width = "400"
-height = "160"/></h1>
-
-
-<h1 align="center">Hi 👋, I'm BIBIN JOSE</h1>
+<h1 align="center">I'm BIBIN JOSE</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Flutter+Developer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibs23&label=Profile%20views&color=0e75b6&style=flat" alt="bibs23" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bibs23&label=Profile%20views&color=0e75b6&style=flat" alt="bibs23" /> </p>
 
 <h1 align = center>
 <img src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 height = "150"
 width = "300"/></h1>
 
-- 🌱 I’m currently learning **Flutter  and Web Development**
+<h3 align="center"
+🌱 I’m currently learning Flutter  and Web Development
 
-- 📫 How to reach me **bibinoottukulathil@gmail.com**
+📫 How to reach me bibinoottukulathil@gmail.com
 
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+⚡ Fun fact The first computer “bug” was an actual real-life bug
 
-- ❤️ Love to build UI using Flutter
+❤️ Love to build UI using Flutter
+</h3>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h2 align="center">Connect with me:</h2>
+<br>
+<p align="center">
 <a href="https://www.linkedin.com/in/bibin-jose-a50b47211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bibin-jose-a50b47211/" height="30" width="40" /></a><a href="https://codesandbox.com/bibs23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bibs23" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bibin.jose.167527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bibin.jose.167527/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iam_bibs_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_bibs_/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCAiMpe3WsrIKNKjI4SMRzUg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCAiMpe3WsrIKNKjI4SMRzUg" height="30" width="40" /></a>
 <a href="https://discord.com/channels/BIBS#6438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BIBS#6438" height="30" width="40" /></a>
 </p>
+ <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<h2 align="center">Languages and Tools:</h2>
+<br>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BIBS23" alt="BIBS23" /></a> </p>
+ <hr>
+ <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibs23&show_icons=true&locale=en&layout=compact" alt="bibs23" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BIBS23&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="BIBS23" /></a> </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibs23&show_icons=true&locale=en" alt="bibs23" /></p>
+<div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibs23&" alt="bibs23" /></p>
+ <hr>
+
+
+<p align="center">
+<br>
+
+<img  height=200 width=200  src="https://media.licdn.com/dms/image/C5622AQHIeTebaan3yQ/feedshare-shrink_800/0/1667914269404?e=1674086400&v=beta&t=H4WOo8DQaPWWIn-2Hx9rj7SFx27GjZxiuOoUGPpZz9s"></img>
+
+
+</p>
+<br>
+
+<hr>
+
+
+<p align=center>
+  <div align=center>
+  <br>
+    <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=BIBS23&theme=react&hide_border=true&bg_color=0D1117" alt="BIBS23" />
+    <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=BIBS23&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BIBS23&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="BIBS23" />
+  <br>
+  <br>
+ <hr>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
