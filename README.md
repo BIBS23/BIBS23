@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=blue&center=true&size=24&width=1200&lines=Hello+World+👋;&duration=3000)](https://git.io/typing-svg) 
 
-<h1 align="center">I'm BIBIN JOSE</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=blue&center=true&size=36&width=1500&lines=Hello+World+👋;&duration=100)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Flutter+Developer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
+<h1 align="center" >I'm BIBIN JOSE</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Passionate+Developer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bibs23&label=Profile%20views&color=0e75b6&style=flat" alt="bibs23" /> </p>
 
 <h1 align = center>
@@ -22,8 +23,8 @@ width = "300"/></h1>
 <br>
 
 
-<h2 align="center">Connect with me:</h2>
-<br>
+<h2 height=100 align="center">Connect with me:</h2>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/bibin-jose-a50b47211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bibin-jose-a50b47211/" height="30" width="40" /></a><a href="https://codesandbox.com/bibs23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bibs23" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bibin.jose.167527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bibin.jose.167527/" height="30" width="40" /></a>
