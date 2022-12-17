@@ -11,14 +11,16 @@
 height = "150"
 width = "300"/></h1>
 
-<h3 align="center"
+<h3 align="center">
+
 🌱 I’m currently learning Flutter  and Web Development
+ <br>
 
 📫 How to reach me bibinoottukulathil@gmail.com
 
 ⚡ Fun fact The first computer “bug” was an actual real-life bug
 
-❤️ Love to build UI using Flutter
+❤️ Love to build UI using Flutter and Html
 </h3>
 <br>
 
