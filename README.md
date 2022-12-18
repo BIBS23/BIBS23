@@ -65,6 +65,7 @@ width = "300"/></h1>
 
 <hr>
 
+<h1 align="center">Git Stats</h1>
 
 <p align=center>
   <div align=center>
@@ -78,5 +79,23 @@ width = "300"/></h1>
   <br>
   <br>
  <hr>
+ 
+ <h1 align="center">Favourite Repo</h1>
+ 
+ <a href="https://github.com/BIBS23/Fifa-WorldCup-Team">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Fifa-WorldCup-Team" />
+</a>
+<a href="https://github.com/BIBS23/Temperature-Converter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Temperature-Converter" />
+</a>
+ 
+  <a href="https://github.com/BIBS23/Netflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Netflix" />
+</a>
+<a href="https://github.com/BIBS23/Temperature-Converter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Temperature-Converter" />
+</a>
+ 
+
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
