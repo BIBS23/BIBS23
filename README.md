@@ -82,19 +82,15 @@ width = "300"/></h1>
  
  <h1 align="center">Favourite Repo</h1>
  
- <a href="https://github.com/BIBS23/Fifa-WorldCup-Team">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Fifa-WorldCup-Team" />
-</a>
-<a href="https://github.com/BIBS23/Temperature-Converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Temperature-Converter" />
-</a>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/BIBS23/Hotstar-Clone" title="Hotstar-Clone"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Hotstar-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BIBS23/Netflix" title="Force-Calculator"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Netflix&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
  
-  <a href="https://github.com/BIBS23/Netflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Netflix" />
-</a>
-<a href="https://github.com/BIBS23/Temperature-Converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=BIBS23&repo=Temperature-Converter" />
-</a>
+ <div width="100%" align="center">
+  <a align="left" href="https://github.com/BIBS23/Leave-Webpage-For-Sject" title="Leave-Webpage-For-Sject"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Hotstar-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BIBS23/Temperature-Converter" title="Temperature-Converter"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Netflix&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
  
 
 
