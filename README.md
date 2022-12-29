@@ -84,7 +84,7 @@ width = "300"/></h1>
  
 <div width="100%" align="center">
   <a align="left" href="https://github.com/BIBS23/Hotstar-Clone" title="Hotstar-Clone"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Hotstar-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/BIBS23/Netflix" title="Force-Calculator"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Netflix&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BIBS23/Netflix" title="Netflix"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBS23&repo=Netflix&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
  
  <div width="100%" align="center">
