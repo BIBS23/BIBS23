@@ -3,7 +3,7 @@
 
 <h1 align="center" >I'm BIBIN JOSE</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Passionate+Developer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Passionate+Flutter+Developer;Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg) 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bibs23&label=Profile%20views&color=0e75b6&style=flat" alt="bibs23" /> </p>
 
 <h1 align = center>
